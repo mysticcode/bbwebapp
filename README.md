@@ -1,8 +1,5 @@
 
-Simple React Webapp using 
-Axios
-useState, useEffect
-custom components
+Simple React Webapp using Axios ,useState, useEffect,custom components
 
 
 
